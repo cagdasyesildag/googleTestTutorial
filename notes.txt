@@ -1,0 +1,6 @@
+int main dogru argument syntaxi
+-->  int main(int argc, const char* argv[])
+
+g++ gtest compile komut satırı:
+g++ -o main -Wall -g -pthread main.cpp -lgtest_main  -lgtest -lpthread 
+
